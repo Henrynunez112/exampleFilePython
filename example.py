@@ -1,6 +1,6 @@
-from tkinter import *
-import hashlib
 import csv
+import hashlib
+from tkinter import *
 
 
 def check_database(dict):
