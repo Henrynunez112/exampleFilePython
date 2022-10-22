@@ -67,7 +67,7 @@ def create_window():
         window, usrname_fld, pswd_fld))
     button.place(x=265, y=125)
     # window background color
-    window.config(background="purple")
+    window.config(background="green")
     # main window size
     window.geometry("500x500")
     window.mainloop()
